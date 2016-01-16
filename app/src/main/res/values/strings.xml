@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CairoMetro</string>
+    <string name="metro_title">مترو القاهرة</string>
+    <string name="nearest_station">أقرب محطة</string>
+    <string name="itinerary">مخطط الرحلة</string>
+    <string name="instructions">الصور الأرشادية</string>
+    <string name="maps">خريطة المترو</string>
+    <string name="questions">أسئلة شائعة</string>
+    <string name="hot_line">الخط الساخن</string>
+
+    <string name="from">من</string>
+    <string name="to">الى</string>
+    <string name="station">محطة</string>
+    <string name="minute">دقيقة</string>
+    <string name="time_of_trip">زمن الرحلة المستغرق</string>
+    <string name="number_of_stations">عدد محطات الرحلة</string>
+
+    <string name="question_1">ما هو مترو القاهرة؟</string>
+    <string name="answer_1">أول نظام مترو متكامل فى أفريقيا والعالم العربى. تم إفتتاحه فى عام 1987 ، يتكون إلى الان من خطين و يحمل ما يقرب من 700 مليون راكب سنوياً / بنسبة تصل إلى 2 مليون راكب يومياً.</string>
+    <string name="question_2">كم عدد خطوط مترو القاهرة؟</string>
+    <string name="answer_2">الخط الأول : حلوان - المرج \nالخط الثاني : شبرا -الجيزة\nالخط الثالث: سيكون من إمبابه – مطار القاهرة الدولى</string>
+    <string name="question_3">ما هى تكلفة التذكرة؟</string>
+    <string name="answer_3">جنية مصرى</string>
+    <string name="question_4">ما هى الخدمات الاخرى التى يقدمها مترو القاهرة؟</string>
+    <string name="answer_4">تُقدم العديد من الخدمات فى محطات مترو القاهرة فيمكن ان تحصل على جريدتك اليومية من محطات المترو ، يمكنك كذلك الحصول على مختلف أنواع الكتب والمجلات " اقتصادية ، عائلية ، رياضة ، ترفيهية ، ... الخ". وكذلك يوجد داخل مختلف المحطات عدد من الخدمات مثل: ماكينات الصراف الالى ، محلات الاكسسوارات ، ...وغيرها.</string>
+    <string name="question_5">ما هى ساعات التشغيل اليومية؟</string>
+    <string name="answer_5">تبدا الرحلة الاولى فى الساعة 5:15 صباحاً ، والرحلة الاخيرة فى الساعة 00:30 صباحاً. (ساعات العمل 19:15 يومياً) تختلف تلك المواقيت بين الصيف والشتاء فى حدود 15 دقيقة أكثر أو أقل.</string>
+    <string name="question_6">كم عدد العاملين بمترو القاهرة؟</string>
+    <string name="answer_6">يعمل بمترو القاهرة ما يقرب من 6000 عامل وموظف.</string>
+    <string name="question_2_2">كد عدد المحطات بمترو القاهرة؟</string>
+    <string name="answer_2_2">يتكون الخط الاول من 35 محطة ، ويتكون الخط الثانى من 20 محطة.</string>
+</resources>
